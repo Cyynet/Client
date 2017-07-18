@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://git.oschina.net/null_843_1359/User/raw/master/ZHFinancialClient.ipa</string>
+					<string>https://raw.githubusercontent.com/Cyynet/Client/master/ZHFinancialClient.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://git.oschina.net/null_843_1359/User/raw/master/icon57.png</string>
+					<string>https://raw.githubusercontent.com/Cyynet/Client/master/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://git.oschina.net/null_843_1359/User/raw/master/icon512.png</string>
+					<string>https://raw.githubusercontent.com/Cyynet/Client/master/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.zhph.users</string>
 				<key>bundle-version</key>
-				<string>2.0.4</string>
+				<string>2.1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
